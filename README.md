@@ -30,4 +30,4 @@
 
 <br>
 
-### 🍀 Github Page : https://1gyou1.github.io/react-movie-app/
+### 🍀 Github Page : https://1gyou1.github.io/React-hooks-10/
